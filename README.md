@@ -1,18 +1,3 @@
-# ===============================================
-# 📘 README Generator for "DailyCodeLab" Repository
-# Author: Ayanda Dlulane
-# Description:
-#   This script-style documentation contains the
-#   full Markdown content of your README.md file.
-#   It explains each section’s purpose so you can
-#   understand and modify it easily in the future.
-# ===============================================
-
-
-# -------------------------------
-# 📌 Repository Introduction
-# -------------------------------
-"""
 # 🚀 DailyCodeLab
 
 > _“The secret of getting ahead is getting started — and the secret of staying ahead is consistency.”_
